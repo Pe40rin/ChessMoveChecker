@@ -1,0 +1,16 @@
+D:\Repos\Ulearn\Chess\Chess\bin\Debug\Chess.exe.config
+D:\Repos\Ulearn\Chess\Chess\bin\Debug\Chess.exe
+D:\Repos\Ulearn\Chess\Chess\bin\Debug\Chess.pdb
+D:\Repos\Ulearn\Chess\Chess\obj\Debug\Chess.csproj.AssemblyReference.cache
+D:\Repos\Ulearn\Chess\Chess\obj\Debug\Chess.csproj.SuggestedBindingRedirects.cache
+D:\Repos\Ulearn\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+D:\Repos\Ulearn\Chess\Chess\obj\Debug\Chess.exe
+D:\Repos\Ulearn\Chess\Chess\obj\Debug\Chess.pdb
+D:\ReposGit\Chess\Chess\bin\Debug\Chess.exe.config
+D:\ReposGit\Chess\Chess\bin\Debug\Chess.exe
+D:\ReposGit\Chess\Chess\bin\Debug\Chess.pdb
+D:\ReposGit\Chess\Chess\obj\Debug\Chess.csproj.AssemblyReference.cache
+D:\ReposGit\Chess\Chess\obj\Debug\Chess.csproj.SuggestedBindingRedirects.cache
+D:\ReposGit\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+D:\ReposGit\Chess\Chess\obj\Debug\Chess.exe
+D:\ReposGit\Chess\Chess\obj\Debug\Chess.pdb
